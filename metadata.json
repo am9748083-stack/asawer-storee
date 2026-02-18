@@ -1,0 +1,22 @@
+{
+  "name": "أساور | لمنتجات اللحوم",
+  "short_name": "أساور",
+  "description": "متجر أساور لمنتجات اللحوم البيضاء والحمراء والألبان والمجمدات في قرية التكينة.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#8B0000",
+  "theme_color": "#8B0000",
+  "icons": [
+    {
+      "src": "assets/logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "requestFramePermissions": []
+}
